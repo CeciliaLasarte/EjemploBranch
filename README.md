@@ -33,8 +33,7 @@ lista
 - [x] 2
 - [x] 3
 
-==palabras destacadas==
-~~ sentencia ~~
+<mark>Termino 1 </mark>
 ---
 
 [link](https://gregoriofer.com/)
