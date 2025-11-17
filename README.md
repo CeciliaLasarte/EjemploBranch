@@ -38,6 +38,6 @@ lista
 ---
 
 [link](https://gregoriofer.com/)
-![texto alternativo](https://gregoriofer.com/logoGF.jpg)
+![texto alternativo](https://gregoriofer.com/logo.jpg)
 
 [^1]: Pie de pagina
