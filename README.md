@@ -29,13 +29,15 @@ termino
 
 lista
 
--[] 1
--[x] 2
--[x] 3
+- [ ] 1
+- [x] 2
+- [x] 3
 
 ==palabras destacadas==
 ~~ sentencia ~~
+---
+
 [link](https://gregoriofer.com/)
-![texto alternativo](https://gregoriofer/logoGF.com)
+![texto alternativo](https://gregoriofer.com/logoGF.jpg)
 
 [^1]: Pie de pagina
